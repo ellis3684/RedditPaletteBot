@@ -14,5 +14,3 @@ The bot then replies to the comment with the Imgur link, and the automatically g
 
 If you'd like to use this bot, you'll have to authenticate via OAuth on the Reddit API. You'll also have to make a free account on Imagga to use their API. Finally,
 you'll have to make an Imgur account to use their API.
-
-Feel free to reach out to me at ellis3684@yahoo.com with comments or suggestions on my code!
